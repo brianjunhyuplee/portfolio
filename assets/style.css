@@ -61,4 +61,14 @@ p{
 
 footer{
     background-color: maroon;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 14px;
+    font-size: 10px;
+    color: white;
 }
