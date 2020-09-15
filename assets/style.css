@@ -1,0 +1,12 @@
+h2{
+    color: black;
+    font-style: bold;
+}
+
+header h2 {
+    color: white;
+}
+
+main .container{
+    border-color: teal;
+}
