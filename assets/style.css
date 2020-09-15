@@ -19,14 +19,22 @@ header h2 {
     font-weight: normal;
     border-style: inset;
     border-color: khaki;
-    border-width: 5px;
+    border-width: 3px;
     padding-right: 16px;
     padding-left: 4px;
 }
 
+header{
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-width: 1px;
+    border-color: blue;
+}
+
 .container{
     background-color: indianred;
-    width: 60%;
+    width: 600px;
     float: left;
     margin-left: 2.5%;
     border-style: double;
@@ -43,10 +51,14 @@ p{
     color: 	#2F4F4F;
 }
 #grad{
-    margin-left: 12%;
+    margin-left: 12%; 
 }
 
 #rightbord{
     border-right-style: solid;
     border-width: 1px;
+}
+
+footer{
+    background-color: maroon;
 }
