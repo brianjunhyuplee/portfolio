@@ -47,5 +47,6 @@ p{
 }
 
 #rightbord{
-    border-right: solid;
+    border-right-style: solid;
+    border-width: 1px;
 }
