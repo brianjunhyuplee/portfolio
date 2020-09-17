@@ -15,15 +15,16 @@
 Create a working website for my portfolio using BootStrap.
 ![Image of Bootstrap Logo](https://getbootstrap.com/docs/4.5/assets/brand/bootstrap-social.png)
 ## Process:
-**1.  Create Basic Template For All Webpage**
+**1.  Create Basic Template For ALL Webpages**
 
 The Navbar and Footers were both defined features of BootStrap.
 ![Image of NavBar and Footer](assets/Images/navbarFooter.png)
 
 These two assets will remain constant between the 3 HTML files.
 In addition to these, all three files will also implement a card.
+![Image of a card with Info About Me](assets/Images/card.png)
 
-**2.  Apply fixes for the semantic tags**
+**2.  Design Each Webpage**
 1. For HTML
 
 *Examples of nonsemantic tags:*
