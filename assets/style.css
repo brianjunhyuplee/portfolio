@@ -51,7 +51,7 @@ p{
     
 }
 
-#rightbord{
+.rightbord{
     border-right-style: solid;
     border-width: 1px;
 }
