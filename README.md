@@ -1,14 +1,14 @@
 # Portfolio
 ## Table of contents
-* [Prerequisites](https://github.com/brianjunhyuplee/refactor-repo#prerequisites)
-* [Objective](https://github.com/brianjunhyuplee/refactor-repo#objective)
-* [Opreation]
-* [Process](https://github.com/brianjunhyuplee/refactor-repo#process)
-* [Built-With](https://github.com/brianjunhyuplee/refactor-repo#built-with)
-* [Deployed-Link](https://github.com/brianjunhyuplee/refactor-repo#deployed-link)
-* [Authors](https://github.com/brianjunhyuplee/refactor-repo#authors)
-* [License](https://github.com/brianjunhyuplee/refactor-repo#license)
-* [Acknowledgements](https://github.com/brianjunhyuplee/refactor-repo#acknowledgments)
+* [Prerequisites](https://github.com/brianjunhyuplee/portfolio#prerequisites)
+* [Objective](https://github.com/brianjunhyuplee/portfolio#objective)
+* [Operation](https://github.com/brianjunhyuplee/portfolio#operation)
+* [Process](https://github.com/brianjunhyuplee/portfolio#process)
+* [Built-With](https://github.com/brianjunhyuplee/portfolio#built-with)
+* [Deployed-Link](https://github.com/brianjunhyuplee/portfolio#deployed-link)
+* [Authors](https://github.com/brianjunhyuplee/portfolio#authors)
+* [License](https://github.com/brianjunhyuplee/portfolio#license)
+* [Acknowledgements](https://github.com/brianjunhyuplee/portfolioo#acknowledgments)
 ## Prerequisites:
 * Computer with internet access
 ## Objective: 
@@ -16,7 +16,7 @@
 Create a working website for my portfolio using BootStrap.
 ![Image of Bootstrap Logo](https://getbootstrap.com/docs/4.5/assets/brand/bootstrap-social.png)
 
-## Objective
+## Operation:
 
 To use the design, simply click on the [deploymentlink](https://brianjunhyuplee.github.io/portfolio/).
 Use the Navigation bar at the top of the browser to navigate to different parts of the website.
@@ -79,12 +79,13 @@ The code segment shown below demonstates the use of media queries in the navbar.
 * [BootStrap]([https://getbootstrap.com/])
 
 ## Deployed Link:
-* [Brian's_Portfolio_Webpage](https://brianjunhyuplee.github.io/refactor-repo/)
+* [Brian's_Portfolio_Webpage](https://brianjunhyuplee.github.io/portfolio/)
 
 ## Author(s):
 **Brian Lee**
 * [GitHub](https://github.com/brianjunhyuplee)
 * [LinkedIn](https://www.linkedin.com/in/brian-lee-559208187/)
+* [MyPortfolio :)](https://brianjunhyuplee.github.io/portfolio/)
 
 ## License:
 
