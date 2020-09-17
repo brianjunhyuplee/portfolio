@@ -26,6 +26,9 @@ header h2 {
     background-color: #00b0f0 ;
 }
 
+header h2 #portfolio{
+    text-align: center;
+}
 header{
     border-bottom-style: solid;
     border-left-style: solid;
@@ -38,7 +41,7 @@ header{
     /* background-color: indianred; */
     background-color: white;
     width: 600px;
-    float: left;
+    /*float: left;*/
     margin-left: 2.5%;
     border-style: double;
 }

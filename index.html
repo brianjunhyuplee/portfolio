@@ -17,7 +17,7 @@
 <body>
     <header class="navbar navbar-expand-sm navbar-light bg-light">
         <section class="navbar-header">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" h=100; href="#">
                 <h2 class="brian">Brian Lee</h2>
             </a>
         </section>
@@ -37,31 +37,51 @@
     </header>
     <br>
     <br>
-    <main class="container">
-        <section class="row">
+    <!-- <main class="card" style="width: 50rem;">
+        <div class="card-body">
+          <section class="row">
             <h2>About Me</h2>
         </section>
         <hr>
         <section class="row">
-            <section class="col-md-4">
-                <img src="assets/Images/grad.jpeg" width="180px" alt="Brian Lee wearing graduation cap and gown" id="grad">
+            <section class="col-sm-12 col-md-4">
+                <img class="img-responsive" src="assets/Images/grad.jpeg" width="100%" alt="Brian Lee wearing graduation cap and gown" id="grad">
             </section>
-            <section class="col-md-8" id="asidep">
-                <p>
-                    I was born on February 10, 1998 in Gaithersburg, Maryland. After moving around the country for three years, my family decided to settle in a small town in California called Pleasanton. 
-                    There, I began my gruesome academic carreer of learning my ABC's and 123's.
-                </p>
+            <section class="col-sm-12 col-md-8">
+                <section class="row">
+                    <section class="col-sm-12" style="float:none;">
+                        <p class="pull right">I was born on February 10, 1998 in Gaithersburg, Maryland. 
+                        At 3 years old I began my gruesome academic carreer of learning my ABC's and 123's.
+                        I graduated from Amador Valley High School. Heavily influenced by my high school Computer Science teacher, I moved on to pursue an education in Computer Science at Texas A&M University. Eventually, I moved back to the Bay Area to continue expanding my knowledge of the field.
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas consequatur, rerum atque consectetur perspiciatis excepturi nihil non quia dolores! Qui eaque possimus eveniet voluptate porro, unde dicta voluptatem quasi quas! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil dolor laboriosam similique repudiandae officia eligendi deleniti esse animi rerum quasi vitae, in iusto, suscipit nostrum sint assumenda quisquam. Dicta, eos.lor Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia id, quod nostrum at quibusdam facere ea expedita asperiores. Explicabo atque provident id, nam unde maiores incidunt quo aut voluptate quos.
+                        </p>
+                    </section>
+                </section>
             </section>
-        </section>
-        <section class="row">
-            <section id="bot">
-                <p> In the spring of 2016, I graduated from Amador Valley High School. Heavily influenced by my high school Computer Science teacher, I moved on to pursue an education in Computer Science at Texas A&M University. Eventually, I moved back to the Bay Area to continue expanding my knowledge of the field.</p>
+        </div>
+    </main> -->
+
+    <main class="card" style="width: 50rem;">
+        <div class="card-body">
+            <section class="row">
+                <div class="span12">
+                    <img class="img-responsive" src="assets/Images/grad.jpeg" width="10%" alt="Brian Lee wearing graduation cap and gown" id="grad">
+                    <p class="pull right">I was born on February 10, 1998 in Gaithersburg, Maryland. 
+                        At 3 years old I began my gruesome academic carreer of learning my ABC's and 123's.
+                        I graduated from Amador Valley High School. Heavily influenced by my high school Computer Science teacher, I moved on to pursue an education in Computer Science at Texas A&M University. Eventually, I moved back to the Bay Area to continue expanding my knowledge of the field.
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas consequatur, rerum atque consectetur perspiciatis excepturi nihil non quia dolores! Qui eaque possimus eveniet voluptate porro, unde dicta voluptatem quasi quas! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil dolor laboriosam similique repudiandae officia eligendi deleniti esse animi rerum quasi vitae, in iusto, suscipit nostrum sint assumenda quisquam. Dicta, eos.lor Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia id, quod nostrum at quibusdam facere ea expedita asperiores. Explicabo atque provident id, nam unde maiores incidunt quo aut voluptate quos.
+                        </p>
+                </div>
             </section>
-        </section>
+        </div>
     </main>
-    <footer>
+
+
+
+    <footer class="navbar navbar-expand-sm navbar-dark bg-dark" class="fixed-bottom">
         <p>	&#169; Copyright</p>
     </footer>
+
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
         crossorigin="anonymous"></script>
